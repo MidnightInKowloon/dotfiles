@@ -1,1 +1,1 @@
-this is my first repo
+My personal Arch Linux config files.
